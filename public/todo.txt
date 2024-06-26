@@ -1,0 +1,23 @@
+FRONTEND:-
+
+->Edit simple HomePage
+
+
+
+
+->  CREATE SIMPLE FORM TO ADD PRODUCTS
+    (productName,productPrice)
+
+
+
+
+
+
+
+
+
+
+BACKEND:-
+
+models,routes
+
